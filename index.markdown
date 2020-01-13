@@ -12,5 +12,6 @@ Use the links above to find out about us and upcoming events.
 Additionally, please use the [wiki](http://wiki.osu-rgsa.org) to look up information about various hardware, resources, and processes within
 the department.
 
+To request membership and access to our mailing list, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSexrTenoZgC8AisNYNP3r0qlCEvHqUDKQEhlddL8RuXNp9Juw/viewform?usp=sf_link).
 
-For questions about membership or access to the mailing list, please contact the officers directly.
+For other inquiries, please contact the officers directly.

@@ -21,3 +21,6 @@ Nick Bira
 
 ### Website and Faculty Liaison
 Connor Yates
+
+## Constitution
+The current [RGSA constitution](https://docs.google.com/document/d/1erxJvtvY2gkOZuYKUHSRKG3LbvUwApvumFFEV5y4_8E/edit?usp=sharing) can be viewed by anyone with an Oregon State University account.
